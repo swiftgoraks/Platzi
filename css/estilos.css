@@ -25,7 +25,11 @@ body
 {
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
     background-color: #33A;
+<<<<<<< HEAD
     color: grey;
+=======
+    color: red;
+>>>>>>> estilos
     margin: 0;
     padding: 0.5em;
     font-weight: bold;
