@@ -24,7 +24,7 @@ body
 #cabecera
 {
     box-shadow: 0px 2px 50px 0px rgba(0,0,0,0.75);
-    background-color: #33A;
+    background-color: rgb(78, 3, 50);
     color: white;
     margin: 0;
     padding: 0.5em;
